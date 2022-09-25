@@ -1,0 +1,149 @@
+.top-container {
+  background-color: #7FBCD2;
+  position: relative;
+  }
+
+h1 {
+  margin:0 auto;
+  padding-top: 100px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color:#11999E;
+  line-height: 2;
+
+  }
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #11999E;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #7FBCD2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+P {
+  line-height:2;
+}
+
+a {
+  color:#7FBCD2;
+  font-family: 'Montserrat',sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+.profile {
+  width: 30%;
+  margin: 100px auto 100px auto;
+  /* text-align: left; */
+  line-height: 2;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+
+.wifi-img {
+  width: 25%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+.code-img {
+  width: 25%;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile-img{
+  margin-top: 50px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+.bottom-cloud {
+  position: absolute;
+  top : 250px;
+  left:300px
+}
+.top-cloud {
+  position: absolute;
+  top : 70px;
+  left : 900px;
+}
+
+.list-style {
+  list-style-type: "🔗  ";
+  font-family: 'Montserrat', sans-serif;
+  color: #7FBCD2;
+
+}
+
+.bottom-container {
+  background-color: #11999E;
+  padding: 20px 20px 20px;
+
+}
+.btn {
+  line-height: 4;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Montserrat,sans-serif;
+  color: #EAF6F6;
+  font-size: 20px;
+  background: #11999E;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+.contact-me {
+  width: 40%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.copy-right {
+  color: #EAF5F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+
+}
